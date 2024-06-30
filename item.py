@@ -1,2 +1,2 @@
-def list_cudtomer():
+def list_customer():
     pass
